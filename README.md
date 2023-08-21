@@ -1,7 +1,7 @@
 # Message-Encoder-Decoder
 Message Encoder/Decoder with key
 
-<p style="font-size:300%;"><b>Project Prerequisites</b></p>
+<h3"><b>Project Prerequisites</b></h3>
 
 In order to run the python script
 
