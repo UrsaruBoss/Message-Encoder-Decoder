@@ -9,3 +9,4 @@ In order to run the python script
     Customtkniter pip install customtkinter
     base64 - pip install base64
 
+Download executable from <a href="rusin.ro/main/apps/encoder.exe">here</a>
