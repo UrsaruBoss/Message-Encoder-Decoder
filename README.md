@@ -1,7 +1,7 @@
 # Message-Encoder-Decoder
 Message Encoder/Decoder with key
 
-Project Prerequisites
+<b>Project Prerequisites</b>
 
 In order to run the python script
 
