@@ -1,7 +1,5 @@
 <h1># Message-Encoder-Decoder</h1>
-Message Encoder/Decoder with key
-
-<br>
+Message Encoder/Decoder with key<br><br><br>
 
 ![alt text](https://www.rusin.ro/main/apps/encoder/encoder.png)
 
